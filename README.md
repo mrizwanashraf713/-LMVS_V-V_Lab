@@ -1,1 +1,2 @@
-# -LMVS_V-V_Lab
+git add verification_log.txt
+git commit -m "Initial verification log added"
